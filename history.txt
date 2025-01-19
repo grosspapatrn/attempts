@@ -25,4 +25,4 @@
   950  git checkout main
   951  git merge feature
   952  git push origin main
-  953  history | tail -50 > history.txt
+  953  history | tail -28 > history.txt
